@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d8edf9f-2b87-45ad-b326-864e063bbbee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="28e83htzoruiDLY2wiu3rFWjAQY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Владислав/Desktop/TestApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2022.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\Desktop\TestApp\client-app\src\Pages\TypeEquipment\Components" />
+      <recent name="C:\Users\Владислав\Desktop\TestApp\client-app\src\Component" />
+      <recent name="C:\Users\Владислав\Desktop\TestApp\client-app\src\Pages" />
+      <recent name="C:\Users\Владислав\Desktop\TestApp\client-app\src\Pages\MainPage" />
+      <recent name="C:\Users\Владислав\Desktop\TestApp\Client\my-app\src\components\UI\MyModal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d8edf9f-2b87-45ad-b326-864e063bbbee" name="Changes" comment="" />
+      <created>1651565495394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651565495394</updated>
+      <workItem from="1651565497698" duration="20939000" />
+      <workItem from="1651645957549" duration="2058000" />
+      <workItem from="1651970982840" duration="5693000" />
+      <workItem from="1651978053006" duration="999000" />
+      <workItem from="1651979092111" duration="30124000" />
+      <workItem from="1652064385678" duration="4816000" />
+      <workItem from="1652192791990" duration="9129000" />
+      <workItem from="1652364636069" duration="9475000" />
+      <workItem from="1652406821111" duration="4486000" />
+      <workItem from="1652454983351" duration="1653000" />
+      <workItem from="1652513442239" duration="11670000" />
+      <workItem from="1652547409746" duration="2231000" />
+      <workItem from="1652593572843" duration="16246000" />
+      <workItem from="1652611050227" duration="1452000" />
+      <workItem from="1652617613090" duration="4925000" />
+      <workItem from="1652630677409" duration="6834000" />
+      <workItem from="1652695549965" duration="13299000" />
+      <workItem from="1652764079064" duration="14192000" />
+      <workItem from="1652796065531" duration="141000" />
+      <workItem from="1652796254652" duration="5553000" />
+      <workItem from="1652855180993" duration="8169000" />
+      <workItem from="1652884420742" duration="10598000" />
+      <workItem from="1652936469131" duration="23000" />
+      <workItem from="1652936559687" duration="3899000" />
+      <workItem from="1652940526385" duration="11035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
